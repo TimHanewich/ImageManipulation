@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PF0qz0pQ03vOpyd3OEog4xVRXck65QGiak2YZPRo11Qn5rmNVXt6LRwdKClnXeJG+TmSmGSxWoG/CY95xsM+Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TaHan\\Downloads\\ImageManipulation\\ImageManipulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
