@@ -1,9 +1,0 @@
-C:\Users\TaHan\Downloads\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.deps.json
-C:\Users\TaHan\Downloads\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.dll
-C:\Users\TaHan\Downloads\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.pdb
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.csprojAssemblyReference.cache
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.csproj.CoreCompileInputs.cache
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.AssemblyInfoInputs.cache
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.AssemblyInfo.cs
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.dll
-C:\Users\TaHan\Downloads\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.pdb
