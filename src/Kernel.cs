@@ -1,6 +1,6 @@
 using System;
 
-namespace ImageManipulation
+namespace TimHanewich.ImageManipulation
 {
     public class Kernel
     {

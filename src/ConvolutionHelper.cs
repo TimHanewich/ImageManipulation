@@ -1,7 +1,7 @@
 using System;
 using System.Drawing;
 
-namespace ImageManipulation
+namespace TimHanewich.ImageManipulation
 {
     public static class ConvolutionHelper
     {

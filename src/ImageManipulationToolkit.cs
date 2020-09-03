@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Collections.Generic;
 
-namespace ImageManipulation
+namespace TimHanewich.ImageManipulation
 {
     public static class ImageManipulationToolkit
     {
